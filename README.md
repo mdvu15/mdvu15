@@ -4,9 +4,9 @@ I'm a first-year Master's student in Operations Research & Industrial Engineerin
 
 :wrench: Technical skills: Web development, Express, Flask, Python, JavaScript, SQL, OCL.
 
-😄 Fun fact: I'm a bassist and retired competitive speedcuber.
-
 📫 I'm best reached via [email](mailto:minhvu@utexas.edu). I'm always open to new opportunities and interesting conversations.
+
+😄 Fun fact: I'm a bassist and retired competitive speedcuber.
 <!--
 **mdvu15/mdvu15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
