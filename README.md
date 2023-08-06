@@ -2,7 +2,7 @@
 
 I'm a first-year Master's student in Operations Research & Industrial Engineering at UT Austin :metal: I graduated from Earlham College in 2019 with a degree in Computer Science and Economics. Before rediscovering my passion for engineering (and software engineering in particular), I spent 3 years working as an actuary and became a Fellow of the Society of Actuaries in the process.
 
-:wrench: Technical skills: Web development, Express, Flask, Python, JavaScript, SQL, OCL.
+:wrench: Technical skills: Web dev, React, TypeScript, Java, AWS CDK, Python, SQL, OCL.
 
 📫 I'm best reached via [email](mailto:minhvu@utexas.edu). I'm always open to new opportunities and interesting conversations.
 
