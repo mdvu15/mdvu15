@@ -4,7 +4,7 @@ I'm a Master's student in Operations Research & Industrial Engineering at UT Aus
 
 :wrench: Technical skills: Web dev, React, TypeScript, Java, AWS CDK, Python, SQL, OCL.
 
-📫 I'm best reached via [email](mailto:minhvu@utexas.edu). I'm always open to new opportunities and interesting conversations.
+📫 I'm best reached via [email](mailto:vdminh28997@gmail.com). I'm always open to new opportunities and interesting conversations.
 
 😄 Fun fact: I'm a bassist and retired competitive speedcuber.
 <!--
